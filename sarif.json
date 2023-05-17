@@ -1778,7 +1778,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "routes/index.js",
+                  "uri": "routes/index.tsx",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
@@ -1804,7 +1804,7 @@
                         "id": 0,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -1821,7 +1821,7 @@
                         "id": 1,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -1876,7 +1876,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "routes/index.js",
+                  "uri": "routes/index.tsx",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
@@ -1902,7 +1902,7 @@
                         "id": 0,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -1919,7 +1919,7 @@
                         "id": 1,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -1974,7 +1974,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "routes/index.js",
+                  "uri": "routes/index.tsx",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
@@ -2000,7 +2000,7 @@
                         "id": 0,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2017,7 +2017,7 @@
                         "id": 1,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2073,7 +2073,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "routes/index.js",
+                  "uri": "routes/index.tsx",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
@@ -2099,7 +2099,7 @@
                         "id": 0,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2116,7 +2116,7 @@
                         "id": 1,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2133,7 +2133,7 @@
                         "id": 2,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2150,7 +2150,7 @@
                         "id": 3,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2167,7 +2167,7 @@
                         "id": 4,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2184,7 +2184,7 @@
                         "id": 5,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2201,7 +2201,7 @@
                         "id": 6,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2218,7 +2218,7 @@
                         "id": 7,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2235,7 +2235,7 @@
                         "id": 8,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2252,7 +2252,7 @@
                         "id": 9,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2269,7 +2269,7 @@
                         "id": 10,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2286,7 +2286,7 @@
                         "id": 11,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2303,7 +2303,7 @@
                         "id": 12,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2320,7 +2320,7 @@
                         "id": 13,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2337,7 +2337,7 @@
                         "id": 14,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2354,7 +2354,7 @@
                         "id": 15,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2371,7 +2371,7 @@
                         "id": 16,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2388,7 +2388,7 @@
                         "id": 17,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2405,7 +2405,7 @@
                         "id": 18,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2422,7 +2422,7 @@
                         "id": 19,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2439,7 +2439,7 @@
                         "id": 20,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2563,7 +2563,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "routes/index.js",
+                  "uri": "routes/index.tsx",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
@@ -2589,7 +2589,7 @@
                         "id": 0,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2606,7 +2606,7 @@
                         "id": 1,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2623,7 +2623,7 @@
                         "id": 2,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2640,7 +2640,7 @@
                         "id": 3,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2657,7 +2657,7 @@
                         "id": 4,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2674,7 +2674,7 @@
                         "id": 5,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2691,7 +2691,7 @@
                         "id": 6,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -2973,7 +2973,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "routes/index.js",
+                  "uri": "routes/index.tsx",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
@@ -2999,7 +2999,7 @@
                         "id": 0,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3016,7 +3016,7 @@
                         "id": 1,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3033,7 +3033,7 @@
                         "id": 2,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3050,7 +3050,7 @@
                         "id": 3,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3067,7 +3067,7 @@
                         "id": 4,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3084,7 +3084,7 @@
                         "id": 5,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3101,7 +3101,7 @@
                         "id": 6,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3118,7 +3118,7 @@
                         "id": 7,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3135,7 +3135,7 @@
                         "id": 8,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
@@ -3152,7 +3152,7 @@
                         "id": 9,
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "routes/index.js",
+                            "uri": "routes/index.tsx",
                             "uriBaseId": "%SRCROOT%"
                           },
                           "region": {
